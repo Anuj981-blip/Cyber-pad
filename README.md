@@ -5,9 +5,7 @@ Here's the updated README with the project renamed to **CyberPad**:
 # CyberPad — 3×3 Macropad
 
 A compact 9-key macropad with rotary encoder, OLED display, and three switchable profiles (Productivity, Gaming, Media). Built around the Seeed XIAO RP2040 and powered by KMK firmware.
-
-![Uploading Assembled_KaziPad_2026-Jun-10_03-12-49PM-000_CustomizedView72080008823.png…]()
-
+<img width="2940" height="1272" alt="bc46f28f-1b93-4bd8-8bf3-4562823a2565" src="https://github.com/user-attachments/assets/2b51d65c-c900-45a6-8148-012c355bef5d" />
 
 ## Features
 
@@ -23,17 +21,14 @@ A compact 9-key macropad with rotary encoder, OLED display, and three switchable
 
 ## Screenshots & Renders
 
-### Macropad Render
-> `CAD/assembled-model.STEP` — open in FreeCAD, Fusion 360, or any STEP viewer.
+----<img width="2940" height="1272" alt="Assembled_KaziPad_2026-Jun-10_03-12-49PM-000_CustomizedView72080008823" src="https://github.com/user-attachments/assets/a3b552ef-ca5a-4fb2-a621-91b58fc669a2" />
 
-![Macropad render placeholder](https://placehold.co/800x450/1a1a2e/ffffff?text=CyberPad+3D+Render)
+<img width="2940" height="1272" alt="Assembled_KaziPad_2026-Jun-10_03-08-33PM-000_CustomizedView41946796829" src="https://github.com/user-attachments/assets/6e1c9771-9213-4a4f-80eb-48b5c31d7148" />
 
----
 
 ### Schematic
-> `PCB/cyberpad.kicad_sch`
+<img width="992" height="695" alt="Screenshot 2026-06-10 at 8 28 48 PM" src="https://github.com/user-attachments/assets/691abfe2-85c0-4d53-a959-655790f7a1d0" />
 
-![Schematic placeholder](https://placehold.co/800x550/1a1a2e/ffffff?text=CyberPad+Schematic)
 
 **Pin mapping (Seeed XIAO RP2040):**
 
@@ -54,9 +49,9 @@ A compact 9-key macropad with rotary encoder, OLED display, and three switchable
 ---
 
 ### PCB Layout
-> `PCB/cyberpad.kicad_pcb`
+<img width="865" height="855" alt="Screenshot 2026-06-10 at 8 30 33 PM" src="https://github.com/user-attachments/assets/9d60d956-1a53-49bc-bbe2-9ab9899c1fbf" />
 
-![PCB layout placeholder](https://placehold.co/800x550/1a1a2e/ffffff?text=CyberPad+PCB+Layout)
+
 
 - 2-layer PCB, 80 × 80 mm
 - MX switch footprints with 1N4148 through-hole diode per switch (COL2ROW)
@@ -67,9 +62,11 @@ A compact 9-key macropad with rotary encoder, OLED display, and three switchable
 ---
 
 ### Case (3D)
-> `CAD/Top.STEP` · `CAD/Bottom.STEP`
+Top:<img width="633" height="552" alt="Screenshot 2026-06-10 at 8 48 46 PM" src="https://github.com/user-attachments/assets/50fb8563-9aed-4b0a-8529-3c03d7022189" />
+Bottom:<img width="554" height="533" alt="Screenshot 2026-06-10 at 8 47 55 PM" src="https://github.com/user-attachments/assets/67ed44b6-0ee8-4e4b-830f-f9ff9462986c" />
 
-![Case render placeholder](https://placehold.co/800x450/1a1a2e/ffffff?text=CyberPad+Case+3D)
+Assembled:<img width="2940" height="1272" alt="Assembled_KaziPad_2026-Jun-10_03-12-49PM-000_CustomizedView72080008823" src="https://github.com/user-attachments/assets/26a4b2e8-2123-4279-acea-f93388bbdd10" />
+
 
 - Two-part snap/screw enclosure
 - Top shell: switch plate integrated, 1.6 mm switch travel clearance
@@ -152,8 +149,6 @@ CyberPad/
 ```
 
 ---
-
-## License
 
 Hardware (PCB + CAD): [CERN-OHL-P v2](https://ohwr.org/cern_ohl_p_v2.txt)
 Firmware: [MIT](https://opensource.org/licenses/MIT)
