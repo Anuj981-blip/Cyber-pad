@@ -6,7 +6,8 @@ Here's the updated README with the project renamed to **CyberPad**:
 
 A compact 9-key macropad with rotary encoder, OLED display, and three switchable profiles (Productivity, Gaming, Media). Built around the Seeed XIAO RP2040 and powered by KMK firmware.
 
----
+![Uploading Assembled_KaziPad_2026-Jun-10_03-12-49PM-000_CustomizedView72080008823.png…]()
+
 
 ## Features
 
