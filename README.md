@@ -1,5 +1,3 @@
-Here's the updated README with the project renamed to **CyberPad**:
-
 ---
 
 # CyberPad — 3×3 Macropad
