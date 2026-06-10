@@ -86,7 +86,7 @@ A fully itemized list of all components required to build a CyberPad.
 | ×1  | 0.91" OLED Display (SSD1306 I2C)  | 128×32, I2C address 0x3C               |
 | ×1  | EC11 Rotary Encoder               | With push-button, 20 detents           |
 | ×9  | MX-Style Switches                 | 5-pin or 3-pin (PCB-mount)             |
-| ×9  | White Blank DSA Keycaps           | 1U                                     |
+| ×9  | White Keycaps                     | 1U                                     |
 | ×9  | Through-hole 1N4148 Diodes        | SOD-27 / DO-35 glass                   |
 | ×4  | M3×16 mm Screws                   | Phillips or hex socket                 |
 | ×4  | M3×5×4 mm Heat-set Inserts        | For bottom shell bosses                |
@@ -145,10 +145,5 @@ CyberPad/
     ├── Bottom.STEP
     └── main.py
 ```
-
----
-
-Hardware (PCB + CAD): [CERN-OHL-P v2](https://ohwr.org/cern_ohl_p_v2.txt)
-Firmware: [MIT](https://opensource.org/licenses/MIT)
 
 ---
