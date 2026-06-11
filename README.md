@@ -147,3 +147,6 @@ CyberPad/
 ```
 
 ---
+AI was used to correct the errors in the code
+
+---
