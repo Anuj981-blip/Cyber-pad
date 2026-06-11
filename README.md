@@ -49,6 +49,7 @@ A compact 9-key macropad with rotary encoder, OLED display, and three switchable
 ### PCB Layout
 <img width="865" height="855" alt="Screenshot 2026-06-10 at 8 30 33 PM" src="https://github.com/user-attachments/assets/9d60d956-1a53-49bc-bbe2-9ab9899c1fbf" />
 
+<img width="843" height="689" alt="Screenshot 2026-06-10 at 8 29 17 PM" src="https://github.com/user-attachments/assets/a0f65cb7-8e16-42b7-baaf-09af27ee17cf" />
 
 
 - 2-layer PCB, 80 × 80 mm
